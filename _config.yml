@@ -7,13 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shenjian Zhang"
+#title                    : "Your Name / Site Title"
+title                    : "Jiaqi Liu"
 title_separator          : "-"
-name                     : &name "Shenjian Zhang"
+name                     : &name "Jiaqi Liu"
 description              : &description "personal description"
-url                      : https://shenjian-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo                     : "/images/profile.png"
+url                      : https://pangtiger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shenjian-zhang/shenjian-zhang.github.io"
+repository               : "PangTiger/PangTiger.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shenjian Zhang"
-  avatar           : "photo.jpg"
-  bio              : "PhD Student @ MICS, HKUST(GZ)"
+  name             : "Jiaqi Liu"
+  avatar           : "Jiaqi-photo.jpg"
+  bio              : "Ph.D. Student @ ECE, HKUST"
   location         : "Hong Kong SAR, China"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "szhangdr@connect.ust.hk"
+  employer         : 
+  pubmed           : 
+  googlescholar    : 
+  email            : "jliuel@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +98,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Shenjian-Zhang"
+  github           : "PangTiger"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -19,6 +19,6 @@ Mixed-Signal IC Design, Phase-Locked Loop, RF Synthesizer, Clock Data Recovery, 
 
 Education Experience
 =====
-B.Eng. in Electronic Science and Technoloy, Xi'an Jiaotong-Liverpool University, 2017-2021
-Ph.D. in Microelectronics, The Hong Kong University of Science and Technology, 2021-2022
-Ph.D. in Microelectronics, The Hong Kong University of Science and Technology (Guangzhou), 2022-2025 (expected)
+* B.Eng. in Electronic Science and Technoloy, Xi'an Jiaotong-Liverpool University, 2017-2021
+* Ph.D. in Microelectronics, The Hong Kong University of Science and Technology, 2021-2022
+* Ph.D. in Microelectronics, The Hong Kong University of Science and Technology (Guangzhou), 2022-2025 (expected)

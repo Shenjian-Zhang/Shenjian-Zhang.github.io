@@ -2,7 +2,7 @@
 title: "A Multi-Layered Air-Gap Transmission Line Design for CMOS-Compatible Millimeter-Wave ICs"
 collection: Conference
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 15-17 Sept. 2021
 venue: '2021 International Conference on IC Design and Technology (ICICDT)'
 

@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: S. Zhang and S. Lam, "A Multi-Layered Air-Gap Transmission Line Design for CMOS-Compatible Millimeter-Wave ICs," <i>2021 International Conference on IC Design and Technology (ICICDT)<i>, 2021, pp. 1-4, doi: 10.1109/ICICDT51558.2021.9626538.
+Recommended citation: S. Zhang and S. Lam, "A Multi-Layered Air-Gap Transmission Line Design for CMOS-Compatible Millimeter-Wave ICs," <i>2021 International Conference on IC Design and Technology (ICICDT)</i>, 2021, pp. 1-4, doi: 10.1109/ICICDT51558.2021.9626538.

@@ -8,13 +8,15 @@ date: 15-17 Sept. 2021
 venue: '2021 International Conference on IC Design and Technology (ICICDT)'
 ---
 
+[IEEE Xplore](https://ieeexplore.ieee.org/document/9626538)
+
+[Download paper here](https://shenjian-zhang.github.io/files/A_Multi-Layered_Air-Gap_Transmission_Line_Design_for_CMOS-Compatible_Millimeter-Wave_ICs.pdf)
+
 A compact and chip-area efficient transmission line design is proposed for monolithic millimeter-wave integrated circuits. Performance improvement is achieved by the use of multi-layered air-gaps compatible to CMOS fabrication. Based on a 65-nm CMOS process, the on-chip transmission line occupies less than 17 um in width and 8 um in height while active devices and circuits can still be fabricated with interconnect routing right beneath the shielded structure
 of the transmission line. The semi-enclosed structure allows the tuning of the characteristic impedance. 3D electromagnetic simulations give results of 1.8 dB/mm insertion loss and a reflection coefficient of -28 dB at 60 GHz, for a 50-ohm matched design. The multi-layered air-gap design allows the current density more uniformly distributed in the signal-carrying conductor compared with a counterpart design without air-gaps.
 
 <i>Keywords—CMOS transmission line, air-gap, monolithic microwave integrated circuits, millimeter wave, dual damascene</i>
 
-citation: 'S. Zhang and S. Lam, "A Multi-Layered Air-Gap Transmission Line Design for CMOS-Compatible Millimeter-Wave ICs," <i>2021 International Conference on IC Design and Technology (ICICDT)</i>, 2021, pp. 1-4, doi: 10.1109/ICICDT51558.2021.9626538.'
+Recommended citation: 'S. Zhang and S. Lam, "A Multi-Layered Air-Gap Transmission Line Design for CMOS-Compatible Millimeter-Wave ICs," <i>2021 International Conference on IC Design and Technology (ICICDT)</i>, 2021, pp. 1-4, doi: 10.1109/ICICDT51558.2021.9626538.'
 
-[IEEE Xplore](https://ieeexplore.ieee.org/document/9626538)
 
-[Download paper here](https://shenjian-zhang.github.io/files/A_Multi-Layered_Air-Gap_Transmission_Line_Design_for_CMOS-Compatible_Millimeter-Wave_ICs.pdf)

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shenjian Zhang(Homepage)"
+title                    : "Shenjian Zhang"
 title_separator          : "-"
 name                     : &name "Shenjian Zhang"
 description              : &description "personal description"

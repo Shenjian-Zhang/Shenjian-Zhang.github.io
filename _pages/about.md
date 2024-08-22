@@ -18,7 +18,7 @@ I'm currently a mixed-signal IC design engineer with [Jupiter Semi](https://www.
 
 Research Interest
 =====
-Mixed-Signal IC Design, data converter, Frequency Synthesizer, Clock Data Recovery, Optical Communication, DC-DC converter
+Mixed-Signal IC Design, Data Converter, Frequency Synthesizer, Clock Data Recovery, Optical Communication, DC-DC Converter
 
 Education Experience
 =====

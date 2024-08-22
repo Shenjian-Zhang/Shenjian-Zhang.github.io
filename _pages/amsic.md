@@ -11,14 +11,14 @@ Nice to see you here. This group is incubated and established in Jan. 2024 suppo
 
 News
 =====
----Jun. 13, 2024: Launch of 2024 AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF)!
+-- Jun. 13, 2024: Launch of 2024 AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF)!
 
 
 
 
 
 
-# {% include base_path %}
+{% include base_path %}
 [Download the CV of Hang Yuan here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV_Hang%20Yuan.pdf)
 
 [Download additional information for more details](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/Additional%20Information-Hang.Yuan.pdf)

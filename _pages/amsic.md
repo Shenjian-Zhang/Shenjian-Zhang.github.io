@@ -9,9 +9,9 @@ Preface
 =====
 Nice to see you here. This group is incubated and established in Jan. 2024 supported by Shenjian Zhang (Founder), Dian Sheng (Co-founder), and Prof. Chun Zhao (XJTLU). The initial target aims to innovate state-of-the-art analog and mixed-signal integrated circuits and systems, expecially corresponding with synaptic-device-based artificial intelligence intergrated circuit (AIIC) designs and applications. Up to now, our group conducts several projects in the fields of data converter, DC-DC converter, and arithmetic-based charge distribution.
 
-NEWs
+News
 =====
--Jun. 13, 2024: Launch of 2024 AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF)!
+--Jun. 13, 2024: Launch of 2024 AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF)!
 
 
 

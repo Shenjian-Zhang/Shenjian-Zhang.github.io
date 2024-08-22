@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome here!"
+title: "Welcome here! I am Shenjian Zhang (张申健)."
 excerpt: "About me"
 author_profile: true
 redirect_from: 

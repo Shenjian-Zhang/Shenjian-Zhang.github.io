@@ -12,7 +12,7 @@ Nice to see you here. This group is incubated and established in Jan. 2024 suppo
 News
 =====
 -- Jun. 13, 2024: Launch of 2024 AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF)!
-
+    Team member: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Zetong Li, Wenjing Qu, Xinyi Chen, Bowen Duan
 
 
 

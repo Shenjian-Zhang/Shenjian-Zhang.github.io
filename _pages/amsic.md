@@ -1,9 +1,21 @@
 ---
 layout: archive
-title: "AMSIC"
+title: "Advanced Mixed-Signal Integrated Circuit (AMSIC) Group"
 permalink: /amsic/
 author_profile: true
 ---
+
+Preface
+=====
+Nice to see you here. This group was incubated since 2024 supported by Shenjian Zhang (Founder), Dian Sheng (Co-founder), and Prof. Chun Zhao (XJTLU). 
+
+
+
+
+
+
+
+
 
 {% include base_path %}
 [Download the CV of Hang Yuan here](https://github.com/EnderHangYuan/EnderHangYuan.github.io/blob/master/files/CV_Hang%20Yuan.pdf)

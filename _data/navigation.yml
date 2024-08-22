@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+   - title: "AMSIC"
+     url: /amsic/    
+  
+   - title: "Publications"
+     url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    

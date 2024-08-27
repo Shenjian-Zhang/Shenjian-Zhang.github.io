@@ -11,14 +11,25 @@ Nice to see you here. This group is incubated and established in Jan. 2024 suppo
 
 Research
 =====
-1. A Coarse-Fine-Tuning Digital-to-Analog Converter (DAC) Design with Differential Current-Steering and Arithmetic Charge-Distribution Techniques
-2. Simulation Modelling of Synaptic Thin-Film Transistor
-3. A Compact Multi-Bit Multi-Order FIR DAC Design for Internet of Things
+1. High-Efficiency Fast-Response Synchronous Step-Down DC-DC Converter
+2. A Coarse-Fine-Tuning Digital-to-Analog Converter (DAC) Design with Differential Current-Steering and Arithmetic Charge-Distribution Techniques
+3. Simulation Modelling of Synaptic Thin-Film Transistor
+4. A Compact Multi-Bit Multi-Order FIR DAC Design for Internet of Things
+
+People
+=====
+* Shenjian Zhang
+* Dian Sheng
+* Rui Li
+* Jiaxiu Xu
+* Zetong Li
+* Yu Sun
+* Chun Zhao
+* Yuxin Guan
 
 News
 =====
--- Jun. 13, 2024: Launch of 2024 AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF)!
-
+-- Jun. 13, 2024: Launch of 2024 AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF)!  
 Team member: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Zetong Li, Wenjing Qu, Xinyi Chen, Bowen Duan
 
 Contact Us

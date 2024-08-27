@@ -11,8 +11,7 @@ Nice to see you here. This group is incubated and established in Jan. 2024 suppo
 
 Research
 =====
-
-
+1. A Coarse-Fine-Tuning Digital-to-Analog Converter (DAC) Design with Differential Current-Steering and Arithmetic Charge-Distribution Techniques
 
 News
 =====

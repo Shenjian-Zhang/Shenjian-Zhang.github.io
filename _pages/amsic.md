@@ -12,6 +12,8 @@ Nice to see you here. This group is incubated and established in Jan. 2024 suppo
 Research
 =====
 1. A Coarse-Fine-Tuning Digital-to-Analog Converter (DAC) Design with Differential Current-Steering and Arithmetic Charge-Distribution Techniques
+2. Simulation Modelling of Synaptic Thin-Film Transistor
+3. A Compact Multi-Bit Multi-Order FIR DAC Design for Internet of Things
 
 News
 =====

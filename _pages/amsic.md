@@ -21,9 +21,10 @@ People
 * Shenjian Zhang
 * Dian Sheng
 * Rui Li
+* Junyan Li
 * Jiaxiu Xu
-* Zetong Li
 * Yu Sun
+* Zetong Li
 * Chun Zhao
 * Yuxin Guan
 

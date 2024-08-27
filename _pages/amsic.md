@@ -23,10 +23,27 @@ Team member: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Zetong Li, Wenjing Qu, Xinyi Che
 Contact Us
 =====
 Jupiter Semi
-G1-602, Artificial Intelligence Industry Park,
-Suzhou International Science Park (SISPARK),
-Jinjihu Road 88,
-Suzhou Industrial Park (SIP), Suzhou,
-Jiangsu Province, China
 
+G1-602,
+
+Artificial Intelligence Industry Park,
+
+88 Jinjihu Road,
+
+Suzhou Industrial Park (SIP), Suzhou,
+
+Jiangsu Province, P. R. China
+
+
+Embedded AI Hardware Universities-Enterprises Joint Key Laboratory
+
+IR-724,
+
+Xi'an Jiaotong-Liverpool University,
+
+111 Ren'ai Road,
+
+Suzhou Industrial Park (SIP), Suzhou,
+
+Jiangsu Province, P. R. China
 

@@ -33,7 +33,7 @@ News
 -- Aug. 30, 2024: Successful completion of 2024 AMSIC & XJTLU SURF!
 
 -- Jun. 13, 2024: Launch of 2024 AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF)!  
-Team member: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Zetong Li, Wenjing Qu, Xinyi Chen, Bowen Duan
+Team member: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Wenjing Qu, Xinyi Chen, Bowen Duan, Zetong Li
 
 Contact Us
 =====

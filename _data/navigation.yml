@@ -2,7 +2,10 @@
 main:
    - title: "AMSIC"
      url: /amsic/    
-  
+
+   - title: "Album"
+     url: /album/
+
    - title: "Publications"
      url: /publications/
 

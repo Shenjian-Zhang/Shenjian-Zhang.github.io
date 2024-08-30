@@ -7,5 +7,5 @@ author_profile: true
 
 AMSIC & XJTLU SURF
 =====
-![SURF_24](images/SURF_24.jpg)
+![SURF_24](SURF_24.jpg)
 *From left to right: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Wenjing Qu, Xinyi Chen, Bowen Duan, (Zetong Li)*

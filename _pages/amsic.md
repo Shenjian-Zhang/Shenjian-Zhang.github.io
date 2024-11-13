@@ -7,14 +7,21 @@ author_profile: true
 
 Preface
 =====
-Nice to see you here. This group is incubated and established in Jan. 2024 supported by Shenjian Zhang (Founder), Dian Sheng (Co-founder), and Prof. Chun Zhao (XJTLU). The initial target aims to innovate state-of-the-art analog and mixed-signal integrated circuits and systems, expecially corresponding with synaptic-device-based artificial intelligence intergrated circuit (AIIC) designs and applications. Up to now, our group conducts several projects in the fields of data converter, DC-DC converter, and arithmetic-based charge distribution.
+Nice to see you here. This group is incubated and established in Jan. 2024 supported by Shenjian Zhang (Founder), Dian Sheng (Co-founder), and Prof. Chun Zhao (XJTLU). The initial target aims to innovate state-of-the-art analog and mixed-signal integrated circuits and systems, expecially corresponding with CMOS-based and synaptic-device-based artificial intelligence intergrated circuit (AIIC) designs and applications. Up to now, our group conducts several projects in the fields of AD/DA converter, DC-DC converter, and transceiver.
 
-Research
+Current Research
 =====
-1. High-Efficiency Fast-Response Synchronous Step-Down DC-DC Converter
-2. A Coarse-Fine-Tuning Digital-to-Analog Converter (DAC) Design with Differential Current-Steering and Arithmetic Charge-Distribution Techniques
-3. Simulation Modelling of Synaptic Thin-Film Transistor
-4. A Compact Multi-Bit Multi-Order FIR DAC Design for Internet of Things
+1. A 10-bit Coarse-Fine SAR ADC with Offset Compensation
+2. Low Latency Sigma-Delta ADC
+3. Digital Front-End for Audio Power Amplifier
+4. A Coarse-Fine Digital-to-Analog Converter (DAC) Design with Differential Current-Steering and Arithmetic Charge-Distribution
+5. VCO......
+
+Completed Projects
+=====
+1. A High-Efficient DC-DC Buck Converter based on Valley Current Mode with ACOT Scheme
+2. A Compact Multi-Bit Multi-Order FIR DAC Design for Internet of Things
+3. Synaptic Thin-Film Transistor Model based on Behavioral Simulation
 
 People
 =====
@@ -23,7 +30,6 @@ People
 * Rui Li
 * Junyan Li
 * Jiaxiu Xu
-* Yu Sun
 * Zetong Li
 * Chun Zhao
 * Yuxin Guan

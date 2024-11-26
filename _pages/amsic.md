@@ -43,7 +43,7 @@ Team member: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Wenjing Qu, Xinyi Chen, Bowen Du
 
 Contact Us
 =====
-[**Jupiter Semi**](https://www.jupiter-semi.com/gywm) 
+[**Jupiter Semi**](https://www.jupiter-semi.com/gywm)  
 G1-602,  
 Artificial Intelligence Industry Park,  
 88 Jinjihu Road,  

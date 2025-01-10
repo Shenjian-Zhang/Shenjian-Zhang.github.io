@@ -37,7 +37,7 @@ People
 
 News
 =====
--- Jan. 20, 2024: Congratulations on the acceptance of **TWO** Jiaxiu's and Shenjian's recent work at IEEE ISCAS 2025!
+-- Jan. 20, 2025: Congratulations on the acceptance of **TWO** Jiaxiu's and Shenjian's recent work at IEEE ISCAS 2025!
 
 -- Congratulations to **Rui Li** for being awarded AMSIC Scholar of the Year 2024!
 

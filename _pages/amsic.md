@@ -19,9 +19,10 @@ Current Research
 
 Completed Projects
 =====
-1. A High-Efficient DC-DC Buck Converter based on Valley Current Mode with ACOT Scheme
-2. A Compact Multi-Bit Multi-Order FIR DAC Design for Internet of Things
-3. Synaptic Thin-Film Transistor Model based on Behavioral Simulation
+1. A PVT-Insensitive 7-Bit Coarse-Fine Ratio-Metric Digital-to-Time Converter for Fractional-N Phase-Locked Loops in 65-nm CMOS
+2. A High-Efficient DC-DC Buck Converter based on Valley Current Mode with ACOT Scheme
+3. A Compact Multi-Bit Multi-Order FIR DAC Design for Internet of Things
+4. Synaptic Thin-Film Transistor Model based on Behavioral Simulation
 
 People
 =====
@@ -36,6 +37,12 @@ People
 
 News
 =====
+-- Jan. 20, 2024: Congratulations on the acceptance of **TWO** **Jiaxiu**'s and **Shenjian**'s recent work at IEEE ISCAS 2025!
+
+-- Congratulations to **Rui Li** for being awarded AMSIC Scholar of the Year 2024!
+
+-- Oct. 25, 2024: Congratulations on the acceptance of **TWO** **Rui Li**'s and **Shenjian**'s recent work at IEEE LASCAS 2025!
+
 -- Aug. 30, 2024: Successful completion of AMSIC & XJTLU SURF 2024!
 
 -- Jun. 13, 2024: Launch of AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF) 2024!  

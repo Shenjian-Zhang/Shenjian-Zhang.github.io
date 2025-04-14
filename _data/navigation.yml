@@ -1,14 +1,15 @@
 # main links links
 main:
-   - title: "AMSIC"
-     url: /amsic/    
+#   - title: "AMSIC"
+#     url: /amsic/    
 
-   - title: "Album"
-     url: /album/
+#   - title: "Album"
+#     url: /album/
 
-   - title: "Publications"
-     url: /publications/
-
+#   - title: "Publications"
+#     url: /publications/
+#
+#
 #  - title: "Talks"
 #    url: /talks/    
 

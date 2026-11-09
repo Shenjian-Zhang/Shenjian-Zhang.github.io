@@ -43,6 +43,8 @@ Our group was established in January 2024 with consistent support and supervisio
 =====
 -- Nov. 1, 2026: Our group has been renamed from the **'Advanced Mixed-Signal Integrated Circuits Group (AMSIC)'** to the **'Artificial-Intelligence and Mixed-Signal Integrated Circuits Group (AIMS)'**！
 
+-- Congratulations to **Jiaxiu Xu** for being awarded AMSIC Scholar of the Year 2025!
+
 -- Jan. 20, 2025: Congratulations on the acceptance of **TWO** Jiaxiu's and Shenjian's recent works by IEEE ISCAS 2025!
 
 -- Congratulations to **Rui Li** for being awarded AMSIC Scholar of the Year 2024!

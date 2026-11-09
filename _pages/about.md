@@ -25,11 +25,11 @@ Research Interest
 
 Education Experience
 =====
-* Ph.D. in Engineering, King's College London, now
-* M.Phil. in Microelectronics, The Hong Kong University of Science and Technology, 2021-2024
-* B.Eng. in Electronic Science and Technoloy, Xi'an Jiaotong-Liverpool University, 2017-2021
+- **Ph.D. in Engineering**, King's College London, now
+- **M.Phil. in Microelectronics**, The Hong Kong University of Science and Technology, 2021-2024
+- **B.Eng. in Electronic Science and Technoloy**, Xi'an Jiaotong-Liverpool University, 2017-2021
 
 Professional Experience
 =====
-** Visiting Research Fellow**, Texas A&M University, Texas, USA
-** Mixed-Signal IC Design Engineer**, Jupiter Semi, Suzhou, China
+- **Visiting Research Fellow**, Texas A&M University, Texas, USA
+- **Mixed-Signal IC Design Engineer**, Jupiter Semi, Suzhou, China

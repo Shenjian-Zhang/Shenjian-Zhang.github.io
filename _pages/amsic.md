@@ -9,7 +9,7 @@ About Us
 =====
 Welcome to **AIMS**!
 
-Our group was established in January 2024 with support from Shenjian Zhang and Prof. Chun Zhao (XJTLU). The name **AIMS** reflects both the acronym and research interests. Our ***aims*** focus on three key research areas: 1) Neuromorphic IC, 2) Neural Network IC, and 3) Computing-in-Memory IC. 
+Our group was established in January 2024 with consistent support and supervise from Prof. Chun Zhao (XJTLU). The name **AIMS** reflects both the acronym and research interests. Our ***aims*** focus on three key research areas: (1) Neuromorphic IC; (2) Neural Network IC; and (3) Computing-in-Memory IC. 
 
 Current Research
 =====
@@ -53,7 +53,7 @@ News
 Team member: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Wenjing Qu, Xinyi Chen, Bowen Duan, Zetong Li
 
 -- Jan. 2024: **'Advanced Mixed-Signal Integrated Circuits Group (AMSIC)'** was founded!
-The initial target aims to innovate state-of-the-art analog and mixed-signal integrated circuits and systems, expecially corresponding with CMOS-based and synaptic-device-based artificial-intelligence intergrated circuit (AIIC) designs and applications.
+Our group was established in January 2024 with support from Shenjian Zhang and Prof. Chun Zhao (XJTLU). The initial target aims to innovate state-of-the-art analog and mixed-signal integrated circuits and systems, expecially corresponding with CMOS-based and synaptic-device-based artificial-intelligence intergrated circuit (AIIC) designs and applications.
 
 Contact Us
 =====

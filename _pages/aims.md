@@ -5,6 +5,17 @@ permalink: /aims/
 author_profile: false
 ---
 
+<style>
+#main > .archive {
+  float: none;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+</style>
+
 <div markdown="1" style="text-align: justify;">
   
 ## About Us

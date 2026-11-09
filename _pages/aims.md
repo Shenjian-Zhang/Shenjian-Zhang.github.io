@@ -52,7 +52,7 @@ News
 -- Jun. 13, 2024: Launch of AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF) 2024!  
 Team member: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Wenjing Qu, Xinyi Chen, Bowen Duan, Zetong Li
 
--- Jan. 2024: **'Advanced Mixed-Signal Integrated Circuits Group (AMSIC)'** was founded!
+-- Jan. 2024: **'Advanced Mixed-Signal Integrated Circuits Group (AMSIC)'** was founded!  
 Our group was established in January 2024 with support from Shenjian Zhang and Prof. Chun Zhao (XJTLU). The initial target aims to innovate state-of-the-art analog and mixed-signal integrated circuits and systems, expecially corresponding with CMOS-based and synaptic-device-based artificial-intelligence intergrated circuit (AIIC) designs and applications.
 
 Contact Us

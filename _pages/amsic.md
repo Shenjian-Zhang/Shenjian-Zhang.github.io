@@ -37,6 +37,8 @@ People
 
 News
 =====
+-- Nov. 1, 2026: Our group has been renamed from the **'Advanced Mixed-Signal Integrated Circuits Group (AMSIC)'** to the **'Artificial-Intelligence and Mixed-Signal Integrated Circuits Group (AIMS). The name **AIMS** reflects both our ambitions and our research focus. Beyond its role as an acronym, our ***aims*** focus on three key research areas: 1) Neuromorphic IC, Neural Network IC, and Computing-in-Memory IC.
+
 -- Mar. 18, 2025: Congratulations on the acceptance of **ONE** Rui's recent work by IEEE ICICDT 2025!
 
 -- Jan. 20, 2025: Congratulations on the acceptance of **TWO** Jiaxiu's and Shenjian's recent works by IEEE ISCAS 2025!

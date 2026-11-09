@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "Advanced Mixed-Signal Integrated Circuit (AMSIC) Group"
+title: "Artificial-Intelligence and Mixed-Signal Integrated Circuits Group (AIMS)"
 permalink: /amsic/
 author_profile: true
 ---
 
-Preface
+About Us
 =====
-Nice to see you here. This group is incubated and established in Jan. 2024 supported by Shenjian Zhang (Founder), Dian Sheng (Co-founder), and Prof. Chun Zhao (XJTLU). The initial target aims to innovate state-of-the-art analog and mixed-signal integrated circuits and systems, expecially corresponding with CMOS-based and synaptic-device-based artificial intelligence intergrated circuit (AIIC) designs and applications. Up to now, our group conducts several projects in the fields of AD/DA converter, DC-DC converter, and transceiver.
+Welcome to **AIMS**!
+
+Our group was established in January 2024 with support from Shenjian Zhang and Prof. Chun Zhao (XJTLU). Beyond its role as an acronym, the name **AIMS** reflects both our ambitions and our research interest. our ***aims*** focus on three key research areas: 1) Neuromorphic IC, 2) Neural Network IC, and 3) Computing-in-Memory IC. 
 
 Current Research
 =====
@@ -37,9 +39,7 @@ People
 
 News
 =====
--- Nov. 1, 2026: Our group has been renamed from the **'Advanced Mixed-Signal Integrated Circuits Group (AMSIC)'** to the **'Artificial-Intelligence and Mixed-Signal Integrated Circuits Group (AIMS)'**. The name **AIMS** reflects both our ambitions and our research focus. Beyond its role as an acronym, our ***aims*** focus on three key research areas: 1) Neuromorphic IC, Neural Network IC, and Computing-in-Memory IC.
-
--- Mar. 18, 2025: Congratulations on the acceptance of **ONE** Rui's recent work by IEEE ICICDT 2025!
+-- Nov. 1, 2026: Our group has been renamed from the **'Advanced Mixed-Signal Integrated Circuits Group (AMSIC)'** to the **'Artificial-Intelligence and Mixed-Signal Integrated Circuits Group (AIMS)'**！
 
 -- Jan. 20, 2025: Congratulations on the acceptance of **TWO** Jiaxiu's and Shenjian's recent works by IEEE ISCAS 2025!
 
@@ -52,15 +52,11 @@ News
 -- Jun. 13, 2024: Launch of AMSIC & XJTLU Summer Undergraduate Research Fellowship (SURF) 2024!  
 Team member: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Wenjing Qu, Xinyi Chen, Bowen Duan, Zetong Li
 
+-- Jan. 2024: **'Advanced Mixed-Signal Integrated Circuits Group (AMSIC)'** was founded!
+The initial target aims to innovate state-of-the-art analog and mixed-signal integrated circuits and systems, expecially corresponding with CMOS-based and synaptic-device-based artificial-intelligence intergrated circuit (AIIC) designs and applications.
+
 Contact Us
 =====
-[**Jupiter Semi**](https://www.jupiter-semi.com/gywm)  
-G1-602,  
-Artificial Intelligence Industry Park,  
-88 Jinjihu Road,  
-Suzhou Industrial Park (SIP), Suzhou,  
-Jiangsu Province, P. R. China  
-215123
 
 **Embedded AI Hardware Universities-Enterprises Joint Key Laboratory**  
 IR-724,  
@@ -69,3 +65,13 @@ Xi'an Jiaotong-Liverpool University,
 Suzhou Industrial Park (SIP), Suzhou,  
 Jiangsu Province, P. R. China  
 215123
+
+<!--
+[**Jupiter Semi**](https://www.jupiter-semi.com/gywm)  
+G1-602,  
+Artificial Intelligence Industry Park,  
+88 Jinjihu Road,  
+Suzhou Industrial Park (SIP), Suzhou,  
+Jiangsu Province, P. R. China  
+215123
+-->

@@ -5,6 +5,8 @@ permalink: /aims/
 author_profile: true
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 About Us
 =====
 Welcome to **AIMS**!
@@ -75,3 +77,4 @@ Suzhou Industrial Park (SIP), Suzhou,
 Jiangsu Province, P. R. China  
 215123
 -->
+</div>

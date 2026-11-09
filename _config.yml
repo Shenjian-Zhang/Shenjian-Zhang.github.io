@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shenjian Zhang"
   avatar           : "photo.JPG"
-  bio              : "IC Designer @ Jupiter Semi"
-  location         : "Hong Kong SAR, China"
+  bio              : "PhD Student @ King's"
+  location         : "Strand, London, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "szhangdr@connect.ust.hk"
+  email            : "shenjian.zhang@kcl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

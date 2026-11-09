@@ -40,11 +40,15 @@ Artificial-Intelligence and Mixed-Signal Integrated CIrcuits Group (AIMS) is lea
 
 ## People
 
-Supervisor: Prof. Chun Zhao (XJTLU)  
-Leader: Rui Li (XJTLU)  
-Co-Leader: Shenjian Zhang (KCL)  
-External Mentor: Yuxin Guan (Jupiter SR)  
-Alumni：
+**Supervisor**: Prof. Chun Zhao (XJTLU)  
+
+**Leader**: Rui Li (XJTLU)  
+
+**Co-Leader**: Shenjian Zhang (KCL)  
+
+**External Mentor**: Yuxin Guan (Jupiter SR)  
+
+**Alumni**：
   * Jiaxiu Xu
   * Yu Sun
   * Wenjing Qu

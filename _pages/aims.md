@@ -11,7 +11,7 @@ author_profile: false
 =====
 Welcome to **AIMS**!
 
-Our group was established in January 2024 with consistent support and supervision from Prof. Chun Zhao (XJTLU). The name **AIMS** reflects both the acronym and research interests. Our ***aims*** focus on three key research areas: (1) Neuromorphic IC; (2) Neural Network IC; and (3) Computing-in-Memory IC. 
+Artificial-Intelligence and Mixed-Signal Integrated CIrcuits Group (AIMS) is leaded by Professor Chun Zhao, in Emerging Electronics and Energy Technologies Research Centre, Xi'an Jiaotong-Liverpool University. The name **AIMS** reflects both the acronym and research interests. Our ***aims*** focus on three key research areas: (1) Neuromorphic IC; (2) Neural Network IC; and (3) Computing-in-Memory IC. 
 
 ## Current Research
 =====

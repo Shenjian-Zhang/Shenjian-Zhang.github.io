@@ -18,10 +18,10 @@ Previously, I received dual B.Eng. degrees in Electronic Science and Technology 
 
 Research Interest
 =====
-- Neuromorphic computing and SNN IC Design
+- Neuromorphic computing and SNN IC design
 - Energy-efficient IC for AI
 - Analog and mixed-signal IC design
-- Data Converters & Frequency Synthesizers
+- Data converters & frequency synthesizers
 
 Education Experience
 =====

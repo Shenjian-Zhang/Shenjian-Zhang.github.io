@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Artificial-Intelligence and Mixed-Signal Integrated Circuits Group (AIMS)"
-permalink: /amsic/
+permalink: /aims/
 author_profile: true
 ---
 

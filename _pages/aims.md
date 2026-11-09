@@ -2,7 +2,7 @@
 layout: archive
 title: "Artificial-Intelligence and Mixed-Signal Integrated Circuits Group (AIMS)"
 permalink: /aims/
-author_profile: true
+author_profile: false
 ---
 
 <div markdown="1" style="text-align: justify;">

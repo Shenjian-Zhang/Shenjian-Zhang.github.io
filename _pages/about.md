@@ -8,19 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Brief Introduction
+About Me
 =====
-I received the dual B.Eng. degrees in Electronic Science and Technology from [University of Liverpool (UoL)](https://www.liverpool.ac.uk) and [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en) with first class honours, Suzhou, China, in 2021.
+I am a Ph.D. student at [King's College London (KCL)](https://www.kcl.ac.uk/), focusing on integrated circuit design for spiking neural networks (SNNs).
 
-After that, I received the M.Phil. degree in Individualized Interdisciplinary Program (Microelectronics) (IIP-MICS) under the supervision of [Prof. Zhirui Zong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZONG-Zhirui/zong) and [Prof. Jiang Xu](https://eexu.home.ece.ust.hk) from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), Kowloon, Hong Kong SAR, in 2024. In this period, I moved to [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn) for cross campus study from 2022 fall to 2023 winter.
+I received my M.Phil. degree through the Individualized Interdisciplinary Program in Microelectronics (IIP-MICS) at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk) in 2024, under the supervision of [Prof. Zhirui Zong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZONG-Zhirui/zong) and [Prof. Jiang Xu](https://eexu.home.ece.ust.hk). During my studies, I undertook cross-campus study at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn) from fall 2022 to winter 2023.
 
-Later, I was a mixed-signal IC design engineer untill 2025 at the startup company [Jupiter Semi](https://www.jupiter-semi.com/gywm), Suzhou, China.
+Previously, I received dual B.Eng. degrees in Electronic Science and Technology with First-Class Honours from the [University of Liverpool (UoL)](https://www.liverpool.ac.uk) and [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en) in 2021.
 
 Research Interest
 =====
-Mixed-Signal IC Design, Data Converter, Frequency Synthesizer, Clock Data Recovery
+- Neuromorphic computing and SNN IC Design
+- Energy-efficient IC for AI
+- Analog and mixed-signal IC design
+- Data Converters & Frequency Synthesizers
 
 Education Experience
 =====
-* B.Eng. in Electronic Science and Technoloy, Xi'an Jiaotong-Liverpool University, 2017-2021
+* Ph.D. in Engineering, King's College London, now
 * M.Phil. in Microelectronics, The Hong Kong University of Science and Technology, 2021-2024
+* B.Eng. in Electronic Science and Technoloy, Xi'an Jiaotong-Liverpool University, 2017-2021
+
+Professional Experience
+=====
+** Visiting Research Fellow**, Texas A&M University, Texas, USA
+** Mixed-Signal IC Design Engineer**, Jupiter Semi, Suzhou, China

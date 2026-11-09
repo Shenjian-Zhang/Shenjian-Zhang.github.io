@@ -8,13 +8,13 @@ author_profile: false
 <div markdown="1" style="text-align: justify;">
   
 ## About Us
-=====
+
 Welcome to **AIMS**!
 
 Artificial-Intelligence and Mixed-Signal Integrated CIrcuits Group (AIMS) is leaded by Professor Chun Zhao, in Emerging Electronics and Energy Technologies Research Centre, Xi'an Jiaotong-Liverpool University. The name **AIMS** reflects both the acronym and research interests. Our ***aims*** focus on three key research areas: (1) Neuromorphic IC; (2) Neural Network IC; and (3) Computing-in-Memory IC. 
 
 ## Current Research
-=====
+
 1. A 10-bit Coarse-Fine SAR ADC with Offset Compensation
 2. Low Latency Sigma-Delta ADC
 3. Digital Front-End for Audio Power Amplifier
@@ -22,14 +22,14 @@ Artificial-Intelligence and Mixed-Signal Integrated CIrcuits Group (AIMS) is lea
 5. VCO......
 
 ## Completed Projects
-=====
+
 1. A PVT-Insensitive 7-Bit Coarse-Fine Ratio-Metric Digital-to-Time Converter for Fractional-N Phase-Locked Loops in 65-nm CMOS
 2. A High-Efficient DC-DC Buck Converter based on Valley Current Mode with ACOT Scheme
 3. A Compact Multi-Bit Multi-Order FIR DAC Design for Internet of Things
 4. Synaptic Thin-Film Transistor Model based on Behavioral Simulation
 
 ## People
-=====
+
 * Shenjian Zhang
 * Dian Sheng
 * Rui Li
@@ -40,7 +40,7 @@ Artificial-Intelligence and Mixed-Signal Integrated CIrcuits Group (AIMS) is lea
 * Yuxin Guan
 
 ## News
-=====
+
 -- Nov. 1, 2026: Our group has been renamed from the **'Advanced Mixed-Signal Integrated Circuits Group (AMSIC)'** to the **'Artificial-Intelligence and Mixed-Signal Integrated Circuits Group (AIMS)'**！
 
 -- Congratulations to **Jiaxiu Xu** for being awarded AMSIC Scholar of the Year 2025!
@@ -60,7 +60,6 @@ Team member: Shenjian Zhang, Jiaxiu Xu, Yu Sun, Wenjing Qu, Xinyi Chen, Bowen Du
 Our group was established in January 2024 with support from Shenjian Zhang and Prof. Chun Zhao (XJTLU). The initial target aims to innovate state-of-the-art analog and mixed-signal integrated circuits and systems, expecially corresponding with CMOS-based and synaptic-device-based artificial-intelligence intergrated circuit (AIIC) designs and applications.
 
 Contact Us
-=====
 
 **Embedded AI Hardware Universities-Enterprises Joint Key Laboratory**  
 IR-724,  

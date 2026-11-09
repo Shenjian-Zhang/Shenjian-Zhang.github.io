@@ -79,6 +79,14 @@ Suzhou Industrial Park (SIP), Suzhou,
 Jiangsu Province, P. R. China  
 215123
 
+[**HC CLOUDMINDS**](https://www.hcminds.com/)  
+G1-1001 | G1-1004,  
+Artificial Intelligence Industry Park,  
+88 Jinjihu Road,  
+Suzhou Industrial Park (SIP), Suzhou,  
+Jiangsu Province, P. R. China  
+215123
+
 <!--
 [**Jupiter Semi**](https://www.jupiter-semi.com/gywm)  
 G1-602,  
@@ -88,4 +96,5 @@ Suzhou Industrial Park (SIP), Suzhou,
 Jiangsu Province, P. R. China  
 215123
 -->
+
 </div>

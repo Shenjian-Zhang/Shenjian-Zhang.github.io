@@ -9,7 +9,7 @@ About Us
 =====
 Welcome to **AIMS**!
 
-Our group was established in January 2024 with support from Shenjian Zhang and Prof. Chun Zhao (XJTLU). Beyond its role as an acronym, the name **AIMS** reflects both our ambitions and our research interest. our ***aims*** focus on three key research areas: 1) Neuromorphic IC, 2) Neural Network IC, and 3) Computing-in-Memory IC. 
+Our group was established in January 2024 with support from Shenjian Zhang and Prof. Chun Zhao (XJTLU). The name **AIMS** reflects both the acronym and research interests. Our ***aims*** focus on three key research areas: 1) Neuromorphic IC, 2) Neural Network IC, and 3) Computing-in-Memory IC. 
 
 Current Research
 =====

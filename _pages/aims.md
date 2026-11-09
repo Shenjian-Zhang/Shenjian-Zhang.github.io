@@ -7,13 +7,13 @@ author_profile: true
 
 <div markdown="1" style="text-align: justify;">
   
-About Us
+## About Us
 =====
 Welcome to **AIMS**!
 
 Our group was established in January 2024 with consistent support and supervise from Prof. Chun Zhao (XJTLU). The name **AIMS** reflects both the acronym and research interests. Our ***aims*** focus on three key research areas: (1) Neuromorphic IC; (2) Neural Network IC; and (3) Computing-in-Memory IC. 
 
-Current Research
+## Current Research
 =====
 1. A 10-bit Coarse-Fine SAR ADC with Offset Compensation
 2. Low Latency Sigma-Delta ADC
@@ -21,14 +21,14 @@ Current Research
 4. A Coarse-Fine Digital-to-Analog Converter (DAC) Design with Differential Current-Steering and Arithmetic Charge-Distribution
 5. VCO......
 
-Completed Projects
+## Completed Projects
 =====
 1. A PVT-Insensitive 7-Bit Coarse-Fine Ratio-Metric Digital-to-Time Converter for Fractional-N Phase-Locked Loops in 65-nm CMOS
 2. A High-Efficient DC-DC Buck Converter based on Valley Current Mode with ACOT Scheme
 3. A Compact Multi-Bit Multi-Order FIR DAC Design for Internet of Things
 4. Synaptic Thin-Film Transistor Model based on Behavioral Simulation
 
-People
+## People
 =====
 * Shenjian Zhang
 * Dian Sheng
@@ -39,7 +39,7 @@ People
 * Chun Zhao
 * Yuxin Guan
 
-News
+## News
 =====
 -- Nov. 1, 2026: Our group has been renamed from the **'Advanced Mixed-Signal Integrated Circuits Group (AMSIC)'** to the **'Artificial-Intelligence and Mixed-Signal Integrated Circuits Group (AIMS)'**！
 
